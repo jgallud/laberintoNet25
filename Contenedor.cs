@@ -13,4 +13,16 @@ public abstract class Contenedor : ElementoMapa
     {
         Hijos.Remove(hijo);
     }
+
+    public List<Orientacion> Orientaciones { get; set; } = new List<Orientacion>();
+
+    public void ponerElementoEnOrientacion(ElementoMapa elemento, Orientacion orientacion)
+    {
+        orientacion.PonerElemento(this, elemento);
+    }
+
+    public ElementoMapa? Norte { get; set; }
+    public ElementoMapa? Sur { get; set; }
+    public ElementoMapa? Este { get; set; }
+    public ElementoMapa? Oeste { get; set; }
 }

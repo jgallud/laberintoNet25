@@ -6,7 +6,7 @@ public class Program
     {
         Juego juego = new Juego { Laberinto = new Laberinto() };
         Console.WriteLine("Fabricando laberinto de 4 habitaciones");
-        juego.fabricarLaberinto4Hab();
+        juego.fabricarLaberinto4HabFM();
 
         if (juego.Laberinto != null)
         {

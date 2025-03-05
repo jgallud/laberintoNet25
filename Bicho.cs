@@ -1,4 +1,9 @@
 public class Bicho : Ente
 {
-    public Modo Modo { get; set; }
+    public required Modo Modo { get; set; }
+
+    public void Actua()
+    {
+        Modo.Actuar(this);
+    }
 }
