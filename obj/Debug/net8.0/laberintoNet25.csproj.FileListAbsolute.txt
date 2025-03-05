@@ -1,0 +1,15 @@
+C:\developer\git\laberintoNet25\bin\Debug\net8.0\laberintoNet25.exe
+C:\developer\git\laberintoNet25\bin\Debug\net8.0\laberintoNet25.deps.json
+C:\developer\git\laberintoNet25\bin\Debug\net8.0\laberintoNet25.runtimeconfig.json
+C:\developer\git\laberintoNet25\bin\Debug\net8.0\laberintoNet25.dll
+C:\developer\git\laberintoNet25\bin\Debug\net8.0\laberintoNet25.pdb
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.AssemblyInfoInputs.cache
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.AssemblyInfo.cs
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.csproj.CoreCompileInputs.cache
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.sourcelink.json
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.dll
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\refint\laberintoNet25.dll
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.pdb
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\laberintoNet25.genruntimeconfig.cache
+C:\developer\git\laberintoNet25\obj\Debug\net8.0\ref\laberintoNet25.dll
