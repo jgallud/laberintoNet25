@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laberintoNet25")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e7752730791ab9bc9ba63bb96e766b6e9b7c7fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d70a391d908eea1ef706e3e1a475a86a20e15ea")]
 [assembly: System.Reflection.AssemblyProductAttribute("laberintoNet25")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laberintoNet25")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
